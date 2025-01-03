@@ -59,6 +59,14 @@ SMS spam classification is a critical task in the field of natural language proc
 
 ---
 
+# Results
+# Final Model: StackingClassifier
+# Base Estimator: Support Vector Machine (SVM)
+# Final Estimator: Random Forest Classifier
+# Accuracy: 98.16%
+# Precision: 96.12%
+This StackingClassifier model leverages the strengths of a Support Vector Machine (SVM) as the base estimator and a Random Forest Classifier as the final meta-estimator. The combination achieves outstanding performance, balancing accuracy and precision effectively for SMS spam classification.
+
 ## How to Use
 
 1. Clone this repository:
