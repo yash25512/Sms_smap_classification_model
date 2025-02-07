@@ -1,4 +1,4 @@
-# Sms_smap_classification_model
+# Sms_spam_classification_model
 
 # SMS Spam Classification
 
